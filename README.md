@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuB0SS
+- 👋 Hi, I’m @Lubos
 - 👀 I’m interested in Intune, application deployment and powershell scripts
 - 📫 How to reach me? Send me DM
 
