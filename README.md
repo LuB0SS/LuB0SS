@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LuB0SS
-- 👀 I’m interested in PS Add Deployment Toolkit and ServiceNow scripts
-- 🌱 I’m currently learning PowerShell, ServiceNow and SCCM
+- 👀 I’m interested in Intune, application deployment and powershell scripts
 - 📫 How to reach me? Send me DM
 
 <!---
